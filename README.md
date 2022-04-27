@@ -1,10 +1,9 @@
 ### 👋👨‍💻
 
-https://user-images.githubusercontent.com/60401401/165621835-d3465a22-6e8f-48eb-b4e2-0e81d6a85712.mp4
 
+![Hello](https://user-images.githubusercontent.com/60401401/165622560-d08e6043-076d-4fd7-8cee-7759119a1d4d.gif)
 
 ![carbon (4)](https://user-images.githubusercontent.com/60401401/165621860-ed9e4f11-4c21-4539-875d-772a1b9cf239.png)
 
 
-https://user-images.githubusercontent.com/60401401/165621876-3f13c429-f3c7-4a3c-9137-2e926c79db7c.mp4
-
+![lt](https://user-images.githubusercontent.com/60401401/165622598-b0f82bcc-9d32-47a4-aabf-65cb0de07a7f.gif)
