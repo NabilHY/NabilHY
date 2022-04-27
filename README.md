@@ -18,6 +18,7 @@
 <br>
 <br>
 
+##Languages & Tools
 ![lt](https://user-images.githubusercontent.com/60401401/165622598-b0f82bcc-9d32-47a4-aabf-65cb0de07a7f.gif)  
 
 <br>
@@ -33,6 +34,10 @@
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilHY&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
