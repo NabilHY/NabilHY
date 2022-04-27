@@ -1,6 +1,6 @@
 ### 👋👨‍💻
 
-<video align="center">
-   <img widht="auto" height="auto" src="md/Hello.mp4">
-</video>
+<p align="center">
+   <video widht="auto" height="auto" src="images/ali-abbani.png">
+</p>
 
