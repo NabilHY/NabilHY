@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<h1 align="center" style="color: green"> A glimpse of who I am</h1>
+## Who Am I ?
 
 <br>
 <br>
@@ -24,11 +24,15 @@
 <br>
 <br>
 
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabilHY&theme=chartreuse-dark&show_icons=true)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilHY&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 <br>
 <br>
 <br>
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilHY&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
