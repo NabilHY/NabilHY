@@ -15,7 +15,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabilHY&theme=hacker&show_icons=true) 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilHY&theme=hacker)](https://git.io/streak-stats)
 <br>
+<center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=NabilHY&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+</center>
+
 
