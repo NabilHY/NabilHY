@@ -6,7 +6,7 @@
 - 🚡 I Graduated from <a href="https://www.microverse.org/">Microverse Inc</a>
 - 💻 Stack: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
 - 👯 Degrees: Web development technical specialist, Full-stack web development certification.
-- 😄 Language: English, Arabic, Spanish, French
+- 😄 Languages I speak: English, Arabic, Spanish, French
 - 🌱 Status: 'looking for a new job opportunity'
 - 📫 Reach me on hayounn.etd@gmail.com
 
