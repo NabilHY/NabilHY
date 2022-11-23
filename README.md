@@ -17,4 +17,5 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabilHY&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=nabilhy&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NabilHY&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+
