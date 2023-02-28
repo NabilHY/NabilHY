@@ -16,8 +16,7 @@
 
 ### Stats
 
-![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabilHY&theme=vue&show_icons=true) <br>[![GitHub Streak](https://streak-stats.demolab.com?user=NabilHY&theme=vue&hide_border=true)](https://git.io/streak-stats) <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabilHY)
-
+![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabilHY&theme=vue&show_icons=true) <br>[![GitHub Streak](https://streak-stats.demolab.com?user=NabilHY&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 
 
